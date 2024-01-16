@@ -1,0 +1,5 @@
+pageObjects\AddToCartPage.class
+pageObjects\Homepage.class
+pageObjects\Searchpage.class
+pageObjects\Loginpage.class
+stepDefinition\Steps.class
